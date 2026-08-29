@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="670" height="750" alt="IMG_0076" src="https://github.com/user-attachments/assets/87dc9e60-6034-40b7-9fa4-a8f4a97530a5" />
+  <img width="630" height="750" alt="IMG_0076" src="https://github.com/user-attachments/assets/87dc9e60-6034-40b7-9fa4-a8f4a97530a5" />
 </p>
 <h1 align="center">
   "I love you when you’re the ugliest, Hina."
